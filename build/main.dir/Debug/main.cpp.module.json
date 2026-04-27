@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "main.dir\\Debug\\main.obj",
+            "outputs": [
+                "C:\\Users\\tore\\Projects\\snake\\build\\main.dir\\Debug\\vc145.pdb",
+                "main.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

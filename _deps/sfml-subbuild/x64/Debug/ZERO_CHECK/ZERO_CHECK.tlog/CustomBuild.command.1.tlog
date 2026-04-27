@@ -1,0 +1,10 @@
+^C:\USERS\TORE\PROJECTS\SNAKE\_DEPS\SFML-SUBBUILD\CMAKEFILES\628DA39D498A2C9AA338F0F5DFF910D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tore/Projects/snake/_deps/sfml-subbuild -BC:/Users/tore/Projects/snake/_deps/sfml-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/tore/Projects/snake/_deps/sfml-subbuild/sfml-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="main.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="d51209d7-bcf0-31e3-b0b1-d91b4ca1bcdf" DefaultStartup="true">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="_deps/freetype-build/freetype.vcxproj"/>
+		<BuildDependency Project="_deps/harfbuzz-build/harfbuzz.vcxproj"/>
+		<BuildDependency Project="_deps/sfml-build/src/SFML/Graphics/sfml-graphics.vcxproj"/>
+		<BuildDependency Project="_deps/sfml-build/src/SFML/System/sfml-system.vcxproj"/>
+		<BuildDependency Project="_deps/sfml-build/src/SFML/Window/sfml-window.vcxproj"/>
+	</Project>
+	<Folder Name="/CMake/">
+		<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="8d354c9a-d11c-36fc-9e14-2a29c494b022">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="main.vcxproj"/>
+		</Project>
+		<Project Path="INSTALL.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="d0f25cb4-76ca-35b3-a255-0e82aa43c54f">
+			<BuildDependency Project="ALL_BUILD.vcxproj"/>
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<Build Solution="Debug|*" Project="false"/>
+			<Build Solution="Release|*" Project="false"/>
+			<Build Solution="MinSizeRel|*" Project="false"/>
+			<Build Solution="RelWithDebInfo|*" Project="false"/>
+		</Project>
+		<Project Path="PACKAGE.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="c4db5969-e585-3125-863e-c6e2aed076af">
+			<BuildDependency Project="ALL_BUILD.vcxproj"/>
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<Build Solution="Debug|*" Project="false"/>
+			<Build Solution="Release|*" Project="false"/>
+			<Build Solution="MinSizeRel|*" Project="false"/>
+			<Build Solution="RelWithDebInfo|*" Project="false"/>
+		</Project>
+		<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="34c79e96-ea2b-3fc9-b4ec-13ebcc4f1c15"/>
+	</Folder>
+	<Folder Name="/Dependencies/">
+		<Project Path="_deps/sheenbidi-build/SheenBidi.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="c2ef4dc9-7004-3d71-a542-d3cae2078188">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+		<Project Path="_deps/freetype-build/freetype.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="8d23e569-32c6-3028-8eb2-fe6a75038976">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+		<Project Path="_deps/harfbuzz-build/harfbuzz.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="eb8375f1-58db-33ec-9548-af6515c49ae5">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="_deps/freetype-build/freetype.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/SFML/">
+		<Project Path="_deps/sfml-build/src/SFML/Graphics/sfml-graphics.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="87933671-6eb2-33a9-acd1-db3408e737dd">
+			<BuildDependency Project="_deps/sheenbidi-build/SheenBidi.vcxproj"/>
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="_deps/freetype-build/freetype.vcxproj"/>
+			<BuildDependency Project="_deps/harfbuzz-build/harfbuzz.vcxproj"/>
+			<BuildDependency Project="_deps/sfml-build/src/SFML/System/sfml-system.vcxproj"/>
+			<BuildDependency Project="_deps/sfml-build/src/SFML/Window/sfml-window.vcxproj"/>
+		</Project>
+		<Project Path="_deps/sfml-build/src/SFML/System/sfml-system.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="38ccb471-1385-3d30-a9ae-1ca424100534">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+		<Project Path="_deps/sfml-build/src/SFML/Window/sfml-window.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="54348eb1-012a-3cb7-a704-f2b968caa49b">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="_deps/sfml-build/src/SFML/System/sfml-system.vcxproj"/>
+		</Project>
+	</Folder>
+</Solution>

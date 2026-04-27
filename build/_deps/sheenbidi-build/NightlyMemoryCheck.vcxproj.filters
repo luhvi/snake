@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tore\Projects\snake\build\CMakeFiles\6fd7e66a3885ba9434ecfe4f309a519c\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\tore\Projects\snake\build\_deps\sheenbidi-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\tore\Projects\snake\build\_deps\sheenbidi-build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8BCE9DB6-1F4E-3230-914D-07C043F7B91B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

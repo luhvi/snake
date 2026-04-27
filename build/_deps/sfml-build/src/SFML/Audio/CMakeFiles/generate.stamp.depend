@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/PatchInfo.txt.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/RepositoryInfo.txt.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/UpdateInfo.txt.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/gitclone.cmake.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/gitupdate.cmake.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/ExternalProject/stepscript.cmake.in
+C:/Program Files/CMake/share/cmake-4.3/Modules/FetchContent.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/flac/download.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/flac/flac-gitclone.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/flac/flac-gitupdate.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/flac/patch.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/flac/update.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/ogg/download.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/ogg/ogg-gitclone.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/ogg/ogg-gitupdate.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/ogg/patch.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/ogg/update.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/vorbis/download.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/vorbis/patch.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/vorbis/update.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/vorbis/vorbis-gitclone.cmake
+C:/Users/tore/Projects/snake/build/CMakeFiles/fc-tmp/vorbis/vorbis-gitupdate.cmake
+C:/Users/tore/Projects/snake/build/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt
+C:/Users/tore/Projects/snake/build/_deps/sfml-src/src/SFML/Audio/Dependencies.cmake.in

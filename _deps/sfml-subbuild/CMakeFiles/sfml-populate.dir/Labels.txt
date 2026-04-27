@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/628da39d498a2c9aa338f0f5dff910d3/sfml-populate.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/d9a7781bf27555d9516e0b076294580e/sfml-populate-complete.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-build.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-configure.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-download.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-install.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-mkdir.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-patch.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-test.rule
+C:/Users/tore/Projects/snake/_deps/sfml-subbuild/CMakeFiles/1b93be24c12337a1bf6e136aabd17052/sfml-populate-update.rule

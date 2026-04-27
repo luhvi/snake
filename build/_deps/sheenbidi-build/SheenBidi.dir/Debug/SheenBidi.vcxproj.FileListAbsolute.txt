@@ -1,0 +1,1 @@
+C:\Users\tore\Projects\snake\build\_deps\sheenbidi-build\SheenBidi.dir\Debug\SheenBidi.lib

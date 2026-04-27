@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/930f174c04b3b472ce5c737e4699da38/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/1bbaaae57c6d67f81baebf7822de9c2e/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/tore/Projects/snake/build/_deps/sfml-subbuild/CMakeFiles/86447f04c5c5b09e5fd3619b2ea15079/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
